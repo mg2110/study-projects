@@ -1,3 +1,3 @@
 # study-projects
 
-Selection and presentation of own work from the Master's program "Applied Artificial Intelligence"
+Presentation of selected own term papers from the master study "Applied Artificial Intelligence"
